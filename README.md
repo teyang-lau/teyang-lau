@@ -1,6 +1,6 @@
 [<img src = 'https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannn.gif' width="980">][website]
 
-- 🔭 I’m currently working as a Researcher at [Sleep and Cognition Laboratory][workwebsite], National University of Singapore!
+- ​🛌​💤​🧠​ I’m currently working as a Researcher at [Sleep and Cognition Laboratory][workwebsite], National University of Singapore!
 - ⭐ I'm an aspiring Data Scientist!
 - 🌱 I’m currently learning everything (machine learning, deep learning, NLP, etc) 🤣
 - 🥅 2020 Goals: Work on more health-related machine learning projects 

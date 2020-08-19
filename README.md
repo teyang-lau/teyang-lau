@@ -30,8 +30,9 @@
 
 <br />
 
----
 [![Top Langs](https://github-readme-stats.teyang-lau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats) <br />
+---
+
 [![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
 [![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Heart_Disease_Prediction)](https://github.com/teyang-lau/Heart_Disease_Prediction)
 

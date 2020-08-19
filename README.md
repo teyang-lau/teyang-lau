@@ -1,4 +1,4 @@
-[<img src = 'https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannnn.gif' width="980">][website]
+[<img src = 'https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannn.gif' width="980">][website]
 
 - 🔭 I’m currently working as a Researcher at [Sleep and Cognition Laboratory][workwebsite], National University of Singapore!
 - ⭐ I'm an aspiring Data Scientist!

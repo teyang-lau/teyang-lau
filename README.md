@@ -1,8 +1,7 @@
-## <img src = './Pictures/TeYannnn.gif' width="980">
-
-My name is [TeYang][website] and I'm a Researcher and aspiring Data Scientist!
+[<img src = 'https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannn.gif' width="980">][website]
 
 - 🔭 I’m currently working as a Researcher at [Sleep and Cognition Laboratory][workwebsite], National University of Singapore!
+- ⭐ I'm an aspiring Data Scientist!
 - 🌱 I’m currently learning everything (machine learning, deep learning, NLP, etc) 🤣
 - 🥅 2020 Goals: Work on more health-related machine learning projects 
 - ⚡ Fun fact: My passion is playing football
@@ -12,10 +11,7 @@ My name is [TeYang][website] and I'm a Researcher and aspiring Data Scientist!
 
 [<img align="left" alt="TeYang" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TeYang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<<<<<<< HEAD
-=======
 [<img align="left" alt="TeYang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
->>>>>>> d6393804deb617d1db6ab69ce84bfea8dbd52157
 
 <br />
 

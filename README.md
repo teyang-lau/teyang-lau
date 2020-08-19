@@ -26,14 +26,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SPSS" width="26px" src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" />
 <img align="left" alt="Tableau" width="26px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br />
 
 <br />
 
 [![Top Langs](https://github-readme-stats.teyang-lau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats)
-
-<br />
-
 
 ### Most recent projects 
 [![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)

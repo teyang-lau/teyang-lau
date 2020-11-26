@@ -35,6 +35,7 @@
 ### Most recent projects:
 [![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
 [![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Heart_Disease_Prediction)](https://github.com/teyang-lau/Heart_Disease_Prediction)
+[![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
 
 [website]: https://teyang-lau.github.io/
 [linkedin]: https://www.linkedin.com/in/teyang-lau/

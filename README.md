@@ -26,6 +26,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SPSS" width="26px" src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" />
 <img align="left" alt="Tableau" width="26px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" />
+<img align="left" alt="Streamlit" width="26px" src="https://bn1301files.storage.live.com/y4mPo4NccaxwpMlh828vhLdR-eqty1dD-snukBUZd5nkbGrx3oVggXhZ2545_i_LbSvp9fFDihoTpuNjVUrlRPlZHcJjhzftWx3cz66rOSZJDsHtI7JF8qG7fJdQo5tCkuly9eWbZbtIw16yYzGDPHjdYe4KnnxDMQcvXUJmLFaSnKu5sTz9YyFj-Xoa61psWFw?width=1200&height=1200&cropmode=none" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br />
 
 <br />

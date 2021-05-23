@@ -31,13 +31,13 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.teyang-lau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats)
+[![Top Langs](https://github-readme-stats-teyanglau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats)
 
 ### Most recent projects:
-[![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
-[![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Disaster_Tweet_Classification)](https://github.com/teyang-lau/Disaster_Tweet_Classification)
-[![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
-[![ReadMe Card](https://github-readme-stats.teyang-lau.vercel.app/api/pin/?username=teyang-lau&repo=Heart_Disease_Prediction)](https://github.com/teyang-lau/Heart_Disease_Prediction)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Disaster_Tweet_Classification)](https://github.com/teyang-lau/Disaster_Tweet_Classification)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Heart_Disease_Prediction)](https://github.com/teyang-lau/Heart_Disease_Prediction)
 
 
 [website]: https://teyang-lau.github.io/

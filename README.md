@@ -20,19 +20,21 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://icon2.cleanpng.com/20180505/qfe/kisspng-pytorch-recurrent-neural-network-deep-learning-mni-a-floating-5aedd5f7701651.1369063415255362474591.jpg" />
-<img align="left" alt="RStudio" width="26px" src="https://i1.pngguru.com/preview/233/348/954/numix-circle-for-windows-rstudio-icon-png-icon-thumbnail.jpg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SPSS" width="26px" src="https://www.kindpng.com/picc/m/19-191554_spss-ibm-spss-statistics-logo-hd-png-download.png" />
-<img align="left" alt="Tableau" width="26px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" />
-<img align="left" alt="Streamlit" width="26px" src="https://bn1301files.storage.live.com/y4mPo4NccaxwpMlh828vhLdR-eqty1dD-snukBUZd5nkbGrx3oVggXhZ2545_i_LbSvp9fFDihoTpuNjVUrlRPlZHcJjhzftWx3cz66rOSZJDsHtI7JF8qG7fJdQo5tCkuly9eWbZbtIw16yYzGDPHjdYe4KnnxDMQcvXUJmLFaSnKu5sTz9YyFj-Xoa61psWFw?width=1200&height=1200&cropmode=none" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br />
+<img align="left" title="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" title="R" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" title="SQL" width="52px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg" />
+<img align="left" title="MATLAB" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" title="Tensorflow" width="52px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />
+<img align="left" title="PyTorch" width="52px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1504806877/ubcfquaoyavuzrh4rqii.png" />
+<img align="left" title="GCP" width="52px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/i6f25wkhuwvkcgg4jcux" />
+<img align="left" title="RStudio" width="52px" src="https://static.macupdate.com/products/50318/m/rstudio-logo.webp?v=1658773652" />
+<img align="left" title="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" title="SPSS" width="52px" src="https://static.macupdate.com/products/27417/m/ibm-spss-statistics-logo.webp?v=1568301995" />
+<img align="left" title="Tableau" width="52px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" />
+<img align="left" title="Streamlit" width="52px" src="https://bn1301files.storage.live.com/y4mPo4NccaxwpMlh828vhLdR-eqty1dD-snukBUZd5nkbGrx3oVggXhZ2545_i_LbSvp9fFDihoTpuNjVUrlRPlZHcJjhzftWx3cz66rOSZJDsHtI7JF8qG7fJdQo5tCkuly9eWbZbtIw16yYzGDPHjdYe4KnnxDMQcvXUJmLFaSnKu5sTz9YyFj-Xoa61psWFw?width=1200&height=1200&cropmode=none" />
+<img align="left" title="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br />
 
-<br />
+<br /><br />
 
 [![Top Langs](https://github-readme-stats-teyanglau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats)
 

@@ -33,11 +33,11 @@
 
 [![Top Langs](https://github-readme-stats-teyanglau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats)
 
-### Most recent projects:
+### Featured projects:
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Disaster_Tweet_Classification)](https://github.com/teyang-lau/Disaster_Tweet_Classification)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
-[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Neural_Style_Transfer)](https://github.com/teyang-lau/Neural_Style_Transfer)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=coffee-joint-rec-sys)](https://github.com/teyang-lau/coffee-joint-rec-sys)
 
 
 [website]: https://teyang-lau.github.io/

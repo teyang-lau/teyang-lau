@@ -1,5 +1,3 @@
-[<img src = 'https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannn.gif' width="980">][website]
-
 <div align="center" >
    <a href="https://github.com/teyang-lau">
    <img width=100% src="https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannn.gif" href="https://github.com/teyang-lau" /></a>

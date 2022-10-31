@@ -39,9 +39,11 @@
 
 ### Featured projects:
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
-[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Disaster_Tweet_Classification)](https://github.com/teyang-lau/Disaster_Tweet_Classification)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=you-only-edit-once)](https://github.com/teyang-lau/you-only-edit-once)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=coffee-joint-rec-sys)](https://github.com/teyang-lau/coffee-joint-rec-sys)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=COVID19_Rest_Activity_Rhythms)]([https://github.com/teyang-lau/coffee-joint-rec-sys](https://github.com/teyang-lau/COVID19_Rest_Activity_Rhythms))
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Disaster_Tweet_Classification)](https://github.com/teyang-lau/Disaster_Tweet_Classification)
 
 
 [website]: https://teyang-lau.github.io/

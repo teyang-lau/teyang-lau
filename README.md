@@ -26,6 +26,8 @@
 <img align="left" title="Tensorflow" width="52px" src="./Pictures/tf.png" />
 <img align="left" title="PyTorch" width="52px" src="./Pictures/torch.webp" />
 <img align="left" title="GCP" width="52px" src="./Pictures/gcp.webp" />
+<img align="left" title="AWS" width="52px" src="./Pictures/aws.svg" />
+<img align="left" title="MLflow" width="52px" src="./Pictures/mlflow.svg" />
 <img align="left" title="RStudio" width="52px" src="./Pictures/rstudio.webp" />
 <img align="left" title="Visual Studio Code" width="52px" src="./Pictures/vscode.png" />
 <img align="left" title="SPSS" width="52px" src="./Pictures/spss.webp" />
@@ -41,8 +43,10 @@
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=you-only-edit-once)](https://github.com/teyang-lau/you-only-edit-once)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=YOListenO)](https://github.com/teyang-lau/YOListenO)
-[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Melanoma_Detection)](https://github.com/teyang-lau/Melanoma_Detection)
-[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=coffee-joint-rec-sys)](https://github.com/teyang-lau/coffee-joint-rec-sys)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=MLOps_MLflow)](https://github.com/teyang-lau/MLOps_MLflow)
+[![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=Coffee_Joint_Recommender_System
+)](https://github.com/teyang-lau/Coffee_Joint_Recommender_System
+)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=COVID19_Rest_Activity_Rhythms)](https://github.com/teyang-lau/COVID19_Rest_Activity_Rhythms)
 
 

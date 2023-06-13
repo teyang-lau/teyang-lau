@@ -5,8 +5,8 @@
 
 - 🏫 I’m currently working as a Researcher at [Sleep and Cognition Laboratory][workwebsite] ​🛌​💤​🧠​, National University of Singapore! <!-- - ⭐ I'm an aspiring Data Scientist! -->
 - 🌱 I’m currently learning everything (AI, machine learning, deep learning, NLP, etc) 🤣
-- 🥅 2023 Goals: Work on more health-related machine learning projects and explore building recommender systems
-- ⚽ Fun fact: My passion is playing football
+- 🥅 2023 Goals: Learn and implement end-to-end MLOps with CI/CD/CM and NoSQL (MongoDB)
+- ⚽ Fun fact: My passion is playing football and flying drones!
 
 
 ### Connect with me:

@@ -33,6 +33,8 @@
 <img align="left" title="SPSS" width="52px" src="./Pictures/spss.webp" />
 <img align="left" title="Tableau" width="52px" src="./Pictures/tableau.png" />
 <img align="left" title="Streamlit" width="52px" src="./Pictures/streamlit.jpg" />
+<img align="left" title="FastAPI" width="52px" src="./Pictures/fastapi.svg" />
+<img align="left" title="Docker" width="52px" src="./Pictures/docker.svg" />
 <img align="left" title="GitHub" width="52px" src="./Pictures/github.png" /><br />
 
 <br /><br /><br /><br />

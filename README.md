@@ -1,6 +1,6 @@
 <div align="center" >
-   <a href="https://github.com/teyang-lau">
-   <img width=100% src="./Pictures/TeYannn.com.gif" href="https://github.com/teyang-lau" /></a>
+   <a href="https://teyanglau.com">
+   <img width=100% src="./Pictures/TeYannn.com.gif" href="https://teyanglau.com" /></a>
 </div>
 
 - 🏫 I’m currently working as a Data Scientist at [Sleep and Cognition Laboratory][workwebsite] ​🛌​💤​🧠​, National University of Singapore! <!-- - ⭐ I'm an aspiring Data Scientist! -->

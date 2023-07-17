@@ -1,6 +1,6 @@
 <div align="center" >
    <a href="https://github.com/teyang-lau">
-   <img width=100% src="https://raw.githubusercontent.com/teyang-lau/teyang-lau/master/Pictures/TeYannn.gif" href="https://github.com/teyang-lau" /></a>
+   <img width=100% src="./Pictures/TeYannn.com.gif" href="https://github.com/teyang-lau" /></a>
 </div>
 
 - 🏫 I’m currently working as a Data Scientist at [Sleep and Cognition Laboratory][workwebsite] ​🛌​💤​🧠​, National University of Singapore! <!-- - ⭐ I'm an aspiring Data Scientist! -->
@@ -22,6 +22,7 @@
 <img align="left" title="Python" width="52px" src="./Pictures/python.png" />
 <img align="left" title="R" width="52px" src="./Pictures/r.png" />
 <img align="left" title="SQL" width="52px" src="./Pictures/mysql.svg" />
+<img align="left" title="MongoDB" width="52px" src="./Pictures/mongodb.png" />
 <img align="left" title="MATLAB" width="52px" src="./Pictures/matlab.png" />
 <img align="left" title="Tensorflow" width="52px" src="./Pictures/tf.png" />
 <img align="left" title="PyTorch" width="52px" src="./Pictures/torch.webp" />

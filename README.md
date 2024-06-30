@@ -42,6 +42,11 @@
 
 [![Top Langs](https://github-readme-stats-teyanglau.vercel.app/api/top-langs/?username=teyang-lau&layout=compact&hide=javascript,html,css)](https://github.com/teyang-lau/github-readme-stats)
 
+### 🐍 My Github Contributions 🐍
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teyang-lau/teyang-lau/output/github-contribution-grid-snake.svg">
+
+
 ### Featured projects:
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=HDB_Resale_Prices)](https://github.com/teyang-lau/HDB_Resale_Prices)
 [![ReadMe Card](https://github-readme-stats-teyanglau.vercel.app/api/pin/?username=teyang-lau&repo=you-only-edit-once)](https://github.com/teyang-lau/you-only-edit-once)

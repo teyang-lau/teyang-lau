@@ -3,7 +3,7 @@
    <img width=100% src="./Pictures/TeYannn.com.gif" href="https://teyanglau.com" /></a>
 </div>
 
-- 🏫 I’m currently working as a Data Scientist at [Singapore Airlines](https://www.singaporeair.com/en_UK/sg/careers/ground-professionals/) ​💺✈️🌏!
+- 🏫 I’m currently working as a AI/Data Scientist at [Singapore Airlines](https://www.singaporeair.com/en_UK/sg/careers/ground-professionals/) ​💺✈️🌏!
 - 🌱 I’m currently learning everything (AI, machine learning, deep learning, NLP, etc) 🤣
 - 🥅 2024 Goals: Develop and create more GenAI applications, and attain a cloud certification!
 - ⚽ Fun fact: My passion is playing football and flying drones!

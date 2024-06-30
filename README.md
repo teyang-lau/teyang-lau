@@ -3,9 +3,9 @@
    <img width=100% src="./Pictures/TeYannn.com.gif" href="https://teyanglau.com" /></a>
 </div>
 
-- 🏫 I’m currently working as a Data Scientist at [Sleep and Cognition Laboratory][workwebsite] ​🛌​💤​🧠​, National University of Singapore! <!-- - ⭐ I'm an aspiring Data Scientist! -->
+- 🏫 I’m currently working as a Data Scientist at [Singapore Airlines](https://www.singaporeair.com/en_UK/sg/careers/ground-professionals/) ​💺✈️🌏!
 - 🌱 I’m currently learning everything (AI, machine learning, deep learning, NLP, etc) 🤣
-- 🥅 2023 Goals: Learn and implement end-to-end MLOps with CI/CD/CM and NoSQL (MongoDB)
+- 🥅 2024 Goals: Develop and create more GenAI applications, and attain a cloud certification!
 - ⚽ Fun fact: My passion is playing football and flying drones!
 
 
